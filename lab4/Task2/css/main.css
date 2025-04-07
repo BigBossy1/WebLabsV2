@@ -1,0 +1,15 @@
+.disabledByMe{
+    color: grey;
+}
+svg {
+    width: 800px;
+    height: 900px;
+}
+svg path, line {
+    fill: none;
+    stroke: black;
+    width: 1px;
+}
+svg text {
+    font: 8px Verdana;
+}
